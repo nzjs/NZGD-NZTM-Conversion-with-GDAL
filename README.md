@@ -1,4 +1,4 @@
-# NZGD->NZTM Conversion with GDAL Tools
+## NZGD->NZTM Conversion with GDAL Tools
 
 Takes a source GIS dataset in NZMG/unprojected and properly converts it to NZTM projection using GDAL/ogr2ogr.
 
